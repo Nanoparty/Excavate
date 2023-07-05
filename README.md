@@ -5,7 +5,7 @@ An exploration and resource collecting game about digging to the center of the E
 One of my first ever game projects. Made entirely in Java. Unfortunately the source code has been lost to time and all that remains is an executable jar file.
 
 ![version](https://img.shields.io/badge/Version-1.0-green)
-![engine](https://img.shields.io/badge/Engine-Unity-blue)
+![engine](https://img.shields.io/badge/Engine-Java-red)
 
 ## Play Now
 
